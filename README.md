@@ -1,5 +1,5 @@
 
-# Submission-Web-Intermediate-Pertama
+# Submission Pertama
 
 ## Belajar Pengembangan Web Intermediate – Dicoding Submission
 

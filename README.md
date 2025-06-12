@@ -39,7 +39,7 @@ src/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repo.git
+git https://github.com/Jradip/Submission-Web-Intermediate-1.git
 cd nama-repo
 ```
 
@@ -66,8 +66,6 @@ npm run start
 npm run build
 ```
 
-- Hasil build akan muncul di folder `dist/`
-- Siap untuk di-deploy ke GitHub Pages, Vercel, Netlify, dll.
 
 ## 🛠️ Teknologi yang Digunakan
 

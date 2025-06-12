@@ -74,7 +74,7 @@ npm run build
 - SPA (Single Page Application)
 - MVP (Model-View-Presenter) Architecture
 - CSS
-- Leaflet.js *(jika digunakan)*
+- Leaflet.js 
 
 ## 📄 Lisensi
 
